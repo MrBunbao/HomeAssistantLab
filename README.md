@@ -4,7 +4,6 @@ My server that controls the automation to my house.
 ![Project Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
-[![GitHub Actions][actions-shield]][actions]
 [![GitHub Activity][commits-shield]][commits]
 [![GitHub Last Commit][last-commit-shield]][commits]
 
@@ -107,17 +106,17 @@ We have set up a separate document containing our
 
 Thank you for being checking my portfolio! :heart_eyes:
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/frenck/home-assistant-config.svg
-[commits]: https://github.com/frenck/home-assistant-config/commits/master
-[contributors]: https://github.com/frenck/home-assistant-config/graphs/contributors
+[commits-shield]: https://img.shields.io/github/commit-activity/y/MrBunbao/homeassistantos-config.svg
+[commits]: https://github.com/MrBunbao/homeassistantos-config/commits/master
+[contributors]: https://github.com/MrBunbao/homeassistantos-config/graphs/contributors
 [frenck]: https://github.com/frenck
-[actions-shield]: https://github.com/frenck/home-assistant-config/workflows/Home%20Assistant%20CI/badge.svg
-[actions]: https://github.com/frenck/home-assistant-config/actions
+[actions-shield]: https://github.com/MrBunbao/homeassistant-config/workflows/Home%20Assistant%20CI/badge.svg
+[actions]: https://github.com/MrBunbao/homeassistantos-config/actions
 [home-assistant]: https://home-assistant.io
-[issue]: https://github.com/frenck/home-assistant-config/issues
-[license-shield]: https://img.shields.io/github/license/frenck/home-assistant-config.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
-[last-commit-shield]: https://img.shields.io/github/last-commit/frenck/home-assistant-config.svg
-[stars-shield]: https://img.shields.io/github/stars/frenck/home-assistant-config.svg?style=social&label=Stars
-[forks-shield]: https://img.shields.io/github/forks/frenck/home-assistant-config.svg?style=social&label=Forks
-[watchers-shield]: https://img.shields.io/github/watchers/frenck/home-assistant-config.svg?style=social&label=Watchers
+[issue]: https://github.com/MrBunbao/homeassistantos-config/issues
+[license-shield]: https://img.shields.io/github/license/MrBunbao/homeassistantos-config.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
+[last-commit-shield]: https://img.shields.io/github/last-commit/MrBunbao/homeassistantos-config.svg
+[stars-shield]: https://img.shields.io/github/stars/MrBunbao/homeassistantos-config.svg?style=social&label=Stars
+[forks-shield]: https://img.shields.io/github/forks/MrBunbao/homeassistantos-config.svg?style=social&label=Forks
+[watchers-shield]: https://img.shields.io/github/watchers/MrBunbao/homeassistantos-config.svg?style=social&label=Watchers
